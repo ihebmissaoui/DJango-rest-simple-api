@@ -312,3 +312,4 @@ drf_course\  <--This is the root directory
 
 ***
 ***
+docker-compose up -d --build

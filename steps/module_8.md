@@ -231,7 +231,6 @@ curl -X POST -F 'username=**your_username**' -F 'password=**your_password**' htt
 
 http post http://api:8000/api-token-auth/ username=**your_username** password=**your_password**
 
-
 > This will retrieve all items
 
 curl -X GET -H 'Authorization: Token **your_token**' http://api:8000/item/
